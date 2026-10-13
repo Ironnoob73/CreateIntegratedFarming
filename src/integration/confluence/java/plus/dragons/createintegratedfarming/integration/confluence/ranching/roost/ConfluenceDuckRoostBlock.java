@@ -18,7 +18,6 @@
 
 package plus.dragons.createintegratedfarming.integration.confluence.ranching.roost;
 
-import com.mojang.serialization.Codec;
 import com.mojang.serialization.MapCodec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
 import net.minecraft.core.Holder;

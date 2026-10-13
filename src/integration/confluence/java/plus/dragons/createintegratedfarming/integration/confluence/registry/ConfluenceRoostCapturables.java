@@ -18,10 +18,10 @@
 
 package plus.dragons.createintegratedfarming.integration.confluence.registry;
 
+import static org.confluence.mod.common.init.entity.CritterEntities.DUCK;
+
 import org.confluence.mod.common.entity.animal.Duck;
 import plus.dragons.createintegratedfarming.common.ranching.roost.RoostCapturableProvider;
-
-import static org.confluence.mod.common.init.entity.CritterEntities.DUCK;
 
 public final class ConfluenceRoostCapturables {
     private ConfluenceRoostCapturables() {}
